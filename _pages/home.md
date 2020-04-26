@@ -34,5 +34,5 @@ feature_row:
     btn_label: "Conecta con el cielo de marmotas"
     
 ---
-This is the home page
+Aprende sobre las marmotas
 {% include feature_row %}
