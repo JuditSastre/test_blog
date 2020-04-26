@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt:
-  example text
+  Conoce el paraiso de las marmotas...
 feature_row:
   - image_path: /assets/images/Marmot-edit1.jpg
     alt: "customizable"
