@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 
-published: false
+published: True
 ---
 
 About section
