@@ -25,6 +25,14 @@ feature_row:
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/th.jpg
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
 ---
 This is the home page
 {% include feature_row %}
