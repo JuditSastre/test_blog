@@ -13,25 +13,25 @@ excerpt:
 feature_row:
   - image_path: /assets/images/Marmot-edit1.jpg
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Marmotas en Instagram"
+    excerpt: "El postureo también llega el reino animal."
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/guerra_marmotas.jpg
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Guerra y marmotas"
+    excerpt: "Ademas de sus prominentes dientes las marmotas tienen espadas laser"
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Declara la guerra a las marmotas"
   - image_path: /assets/images/th.jpg
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Marmotas y Dios"
+    excerpt: "Las marmotas también rezan."
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Conecta con el cielo de marmotas"
     
 ---
 This is the home page
