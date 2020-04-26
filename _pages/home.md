@@ -17,11 +17,11 @@ feature_row:
     excerpt: "El postureo también llega el reino animal."
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Dale like"
   - image_path: /assets/images/guerra_marmotas.jpg
     alt: "fully responsive"
     title: "Guerra y marmotas"
-    excerpt: "Ademas de sus prominentes dientes las marmotas tienen espadas laser"
+    excerpt: "Además de sus prominentes dientes las marmotas tienen espadas láser"
     url: "https://es.wikipedia.org/wiki/Wikipedia:Portada"
     btn_class: "btn--primary"
     btn_label: "Declara la guerra a las marmotas"
