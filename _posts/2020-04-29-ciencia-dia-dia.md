@@ -6,8 +6,8 @@ tags:
   - Virus
   
 image:
-  feature: th.jpg
-  thumb: th.jpg #keep it square 200x200 px is good
+  feature: /assets/images/th.jpg
+  thumb: /assets/images/th.jpg #keep it square 200x200 px is good
 
 published: True
 ---
