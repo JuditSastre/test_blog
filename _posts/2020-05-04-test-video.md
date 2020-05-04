@@ -1,9 +1,7 @@
 ---
 title: "Post prueba video Drive"
-driveID: "1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview"
-Published: True
+driveId: 1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview
 ---
-2020-05-04-test-video
 
 Dame mi video
 
