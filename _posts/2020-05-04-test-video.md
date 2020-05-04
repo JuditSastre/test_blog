@@ -1,5 +1,10 @@
------
-driveId: <iframe src="https://drive.google.com/file/d/1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview" width="640" height="480"></iframe>
--------
+---
+title: "Post prueba video Drive"
+driveID: "1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview"
+Published: True
+---
+2020-05-04-test-video
+
 Dame mi video
+
 {% include googleDrivePlayer.html id=page.driveId %}
