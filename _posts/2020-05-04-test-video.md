@@ -1,6 +1,6 @@
 ---
 title: "Post prueba video Drive"
-driveId: https://drive.google.com/file/d/1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview
+driveId: 1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview
 ---
 
 Dame mi video. Dámelo ya, ¡ya!
