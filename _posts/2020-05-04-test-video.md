@@ -1,8 +1,10 @@
 ---
 title: "Post prueba video Drive"
-driveId: 1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview
+
 ---
 
 Dame mi video. Dámelo ya, ¡ya!
+...
+¿yA?
 
-{% include googleDrivePlayer.html id=page.driveId %}
+{% include video id="1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview" provider="google-drive" %}
