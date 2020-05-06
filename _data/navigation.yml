@@ -18,5 +18,6 @@ main:
   #   url: /sitemap/
   #Test Twitter sidebar
   twitter:
-    - title: "Hay twitter?"
-    url: /_includes/embed_twitter
+  - title: "hay twitter"
+    url: /includes/embed_twitter
+
