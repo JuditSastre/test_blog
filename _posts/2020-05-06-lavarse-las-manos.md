@@ -37,12 +37,12 @@ a concentraciones bajas, las moléculas de jabón se sitúan en la interfase agu
 a concentraciones más altas, las moléculas de jabón se ordenan en la solución acuosa formando *micelas*, es decir, se agrupan para formar
 esferas con las cabezas apuntando hacia el exterior y las colas protegidas del agua en el interior.
 
-![Figure 1](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura1.jpg)
+![Figure 1](/images/manos/Figura1.jpg)
 
 A su vez, los lípidos que forman la envoltura vírica también son moléculas anfifílicas que, en este caso, forman *bicapas lipídicas*
 – micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua-.
 
-![Figure 2](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura2.jpg)
+![Figure 2](/assets/images/manos/Figura2.jpg)
 
 Así pues, cuando nos lavamos las manos con agua y jabón, rodeamos los virus con moléculas de jabón. Estas moléculas, en su huida del
 agua, interaccionan tanto con otras moléculas de jabón como con los lípidos que conforman la envoltura vírica porque las moléculas de
@@ -65,7 +65,7 @@ Los iniciados me diréis: ¡el experimento del aceite tampoco es exacto! Tenéis
 podemos ver como la gota de aceite (el virus) se rompe al añadir jabón formando esferas más pequeñas. Ahora sí, Nico comprende que los 
 virus se rompen al lavarnos las manos.
 
-![Figure 3](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura3.jpg)
+![Figure 3](/assets/images/manos/Figura3.jpg)
 
 Para hablar de cómo el jabón interactúa con un virus podríamos ir al laboratorio, construir una bicapa para visualizarla con un 
 microscopio y ver qué pasa si añadimos jabón: eso sería visual y, a la vez, veraz. Por desgracia, no siempre es así y normalmente 
@@ -75,8 +75,10 @@ faltar a la verdad ¡Casi nada!
 
 
 AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB...no funciona
-    
-**Diccionario**
+ 
+ 
+ :::warning
+**Glosario**
 
 
 * **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
@@ -90,10 +92,10 @@ aminoácidos. En una célula, se encargan de casi todos los procesos que os pod�
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas. 
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
+:::
 
 
-
-**Más información**
+**Para saber más**
 
 * Esta infografía de Compound Interest explica cómo actúan diferentes sustancias sobre el coronavirus, en inglés: https://www.compoundchem.com/2020/03/31/destroy-coronavirus/ En castellano: https://www.compoundchem.com/wp-content/uploads/2020/04/Four-ways-to-destroy-coronavirus-SPA.pdf
 * En este hilo de Twitter, Palli Thordarson, profesor en la Facultad de Químicas en la Universidad de Nueva Gales del Sur (Australia), 
