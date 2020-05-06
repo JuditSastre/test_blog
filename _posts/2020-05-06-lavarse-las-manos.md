@@ -77,7 +77,7 @@ faltar a la verdad ¡Casi nada!
 AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB...no funciona
  
  
- :::warning
+ ::: warning
 **Glosario**
 
 
