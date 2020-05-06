@@ -1,11 +1,11 @@
 ---
-title: "Bombardeando al virus: ¡Jabón aplasta!
+title: "Bombardeando al virus: ¡Jabón aplasta!"
 categories:
   - Ciencia del día a día
- tags:
+tags:
   - Jabón
   - Virus
-  ---
+---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
 
