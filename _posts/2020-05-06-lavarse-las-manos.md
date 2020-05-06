@@ -22,11 +22,13 @@ SO FAR:
 - [x] Los videos funcionan bien
 - [x] He añadido unas líneas que separan el glosario de para saber más.
 - [ ] Aún estoy probando si puedo hacer un recuadro alrededor de glosario y saber más 
-- [x] Imágenes centradas. Si son enormes no puede cargarlas y crees que lo has hecho mal, pero no. Se pueden alinear diferente. Más info [https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/]
-- [ ] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [ ] Imágenes centradas. Si son enormes no puede cargarlas y crees que lo has hecho mal, pero no. Se pueden alinear diferente. Más info (https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
+- [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [ ] Separar bien las tres secciones.
 - [x] Texto ancho
 - [ ] Poner nuestro tweeter en la barra lateral. 
+- [ ] Tamaño de letra más pequeño?
+- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes)
 
 
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
