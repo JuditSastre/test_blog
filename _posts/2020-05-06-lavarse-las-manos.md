@@ -9,6 +9,16 @@ classes: wide
 ---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
+SO FAR:
+- [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
+- [x] Los videos funcionan bien
+- [x] He añadido unas líneas que separan el glosario de para saber más.
+- [] Aún estoy probando si puedo hacer un recuadro alrededor de glosario y saber más 
+- [] Imágenes centradas
+- [] Links bien
+- [] Separar bien las tres secciones. 
+- [] Poner nuestro tweeter en la barra lateral. 
+
 
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
@@ -74,7 +84,10 @@ nos esforcemos en explicar los conceptos desnudándolos de tecnicismos y en crea
 faltar a la verdad ¡Casi nada!
 
 
-AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB...no funciona
+
+
+
+
  
  
  ---
