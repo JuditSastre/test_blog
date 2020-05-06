@@ -5,8 +5,7 @@ categories:
  tags:
   - Jabón
   - Virus
-
----
+  ---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
 
