@@ -16,8 +16,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  #Test Twitter sidebar
-  twitter:
-  - title: "hay twitter"
-    url: /includes/embed_twitter
+
 
