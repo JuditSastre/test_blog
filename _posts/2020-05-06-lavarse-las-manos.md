@@ -73,31 +73,31 @@ nos esforcemos en explicar los conceptos desnudándolos de tecnicismos y en crea
 faltar a la verdad ¡Casi nada!
 
 
-AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB.
+AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB...no funciona
     
 **Diccionario**
 
 
-* Nanopartícula: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
+* **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.
-* Material genético: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
+* **Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
 (ácido desoxirribonucleico) o el ARN (ácido ribonucleico). 
-* Proteína: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
+* **Proteína**: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
 son mucho más que eso (preguntadle a un bioquímico, si no). Las proteínas son moléculas, muy grandes, formadas por secuencias de 
 aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.
-* Interacción débil: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico. 
+* **Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico. 
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas. 
-* Miscible: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
+* **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 
 
 
 **Más información**
 
-* Esta infografía de Compound Interest explica cómo actúan diferentes sustancias sobre el coronavirus, en inglés: https://www.compoundchem.com/2020/03/31/destroy-coronavirus/
-
-En castellano: https://www.compoundchem.com/wp-content/uploads/2020/04/Four-ways-to-destroy-coronavirus-SPA.pdf
+* Esta infografía de Compound Interest explica cómo actúan diferentes sustancias sobre el coronavirus, en inglés: https://www.compoundchem.com/2020/03/31/destroy-coronavirus/ En castellano: https://www.compoundchem.com/wp-content/uploads/2020/04/Four-ways-to-destroy-coronavirus-SPA.pdf
 * En este hilo de Twitter, Palli Thordarson, profesor en la Facultad de Químicas en la Universidad de Nueva Gales del Sur (Australia), 
-nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa el jabón sobre él. En inglés. https://twitter.com/PalliThordarson/status/1236549305189597189?s=20
+nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa el jabón sobre él. En inglés. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most viruses? Because it is a self-assembled nanoparticle in which the weakest link is the lipid (fatty) bilayer. A two part thread about soap, viruses and supramolecular chemistry <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/OCwqPjO5Ht">pic.twitter.com/OCwqPjO5Ht</a></p>&mdash; Palli Thordarson (@PalliThordarson) <a href="https://twitter.com/PalliThordarson/status/1236549305189597189?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 * Inspirado en este hilo, un artículo del New York Times. En castellano. https://www.nytimes.com/es/2020/03/16/espanol/ciencia-y-tecnologia/jabon-mata-coronavirus-lavado-manos.html
 * Del mismo autor del primer hilo, otro respondiendo a preguntas que surgieron del primero. En inglés. https://twitter.com/PalliThordarson/status/1236969890398912512?s=20
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/18 A soap is a soap is a soap! I am still flabbergasted by your response to my Twitter thread about the <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Coronavirus, soap and supramolecular chemistry! I have been quite busy today but I in this thread I will try to provide answers to some of your questions: <a href="https://t.co/re56GDmvIG">pic.twitter.com/re56GDmvIG</a></p>&mdash; Palli Thordarson (@PalliThordarson) <a href="https://twitter.com/PalliThordarson/status/1236969890398912512?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
