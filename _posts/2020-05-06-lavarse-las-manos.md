@@ -24,7 +24,8 @@ SO FAR:
 - [ ] Aún estoy probando si puedo hacer un recuadro alrededor de glosario y saber más 
 - [ ] Imágenes centradas
 - [ ] Links bien
-- [ ] Separar bien las tres secciones. 
+- [ ] Separar bien las tres secciones.
+- [x] Texto ancho
 - [ ] Poner nuestro tweeter en la barra lateral. 
 
 
