@@ -6,14 +6,7 @@ tags:
   - Jabón
   - Virus
 classes: wide
-sidebar:
-  - title: "Científicas Erbias Fake"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Cuenta fake en la que pruebo cosas"
-  - title: "¿Aparecerá el tweeter?"
-    text: "La duda me corroe."
-    nav: sidebar-sample
+author_profile: true
 ---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
@@ -26,11 +19,13 @@ SO FAR:
 - [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [ ] Separar bien las tres secciones.
 - [x] Texto ancho
-- [ ] Poner nuestro tweeter en la barra lateral. 
+- [x] Poner nuestro twitter en la barra lateral. 
 - [ ] Tamaño de letra más pequeño?
 - [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes)
-
-
+&nbsp 
+&nbsp 
+&nbsp 
+&nbsp 
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
 Para intentar explicárselo, sus padres usaron un experimento que se ha popularizado en las redes sociales y en la televisión.
@@ -93,14 +88,9 @@ microscopio y ver qué pasa si añadimos jabón: eso sería visual y, a la vez, 
 la ciencia no nos da imágenes que nos permitan divulgar. En estos casos, se hace imprescindible que, aquellos que intentamos divulgar, 
 nos esforcemos en explicar los conceptos desnudándolos de tecnicismos y en crear imágenes que nos permitan visualizarlos. Todo esto sin 
 faltar a la verdad ¡Casi nada!
-
-
-
-
-
-
- 
- 
+&nbsp 
+&nbsp 
+&nbsp 
  ---
 **Glosario**
 
@@ -118,8 +108,10 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 
 ---
-
-
+&nbsp 
+&nbsp 
+&nbsp 
+---
 **Para saber más**
 
 * Esta infografía de Compound Interest explica cómo actúan diferentes sustancias sobre el coronavirus, en inglés: [Four ways to destroy coronavirus- Compund Interest](https://www.compoundchem.com/2020/03/31/destroy-coronavirus/) En castellano: [Cuatro maneras de destruir el coronavirus](https://www.compoundchem.com/wp-content/uploads/2020/04/Four-ways-to-destroy-coronavirus-SPA.pdf)
@@ -129,3 +121,5 @@ nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa e
 * Inspirado en este hilo, un artículo del New York Times. En castellano. [¿Por qué el jabón funciona?](https://www.nytimes.com/es/2020/03/16/espanol/ciencia-y-tecnologia/jabon-mata-coronavirus-lavado-manos.html)
 * Del mismo autor del primer hilo, otro respondiendo a preguntas que surgieron del primero. En inglés.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/18 A soap is a soap is a soap! I am still flabbergasted by your response to my Twitter thread about the <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Coronavirus, soap and supramolecular chemistry! I have been quite busy today but I in this thread I will try to provide answers to some of your questions: <a href="https://t.co/re56GDmvIG">pic.twitter.com/re56GDmvIG</a></p>&mdash; Palli Thordarson (@PalliThordarson) <a href="https://twitter.com/PalliThordarson/status/1236969890398912512?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
