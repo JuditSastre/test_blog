@@ -22,10 +22,10 @@ SO FAR:
 - [x] Poner nuestro twitter en la barra lateral. 
 - [ ] Tamaño de letra más pequeño?
 - [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes)
-&nbsp 
-&nbsp 
-&nbsp 
-&nbsp 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
 Para intentar explicárselo, sus padres usaron un experimento que se ha popularizado en las redes sociales y en la televisión.
@@ -88,9 +88,11 @@ microscopio y ver qué pasa si añadimos jabón: eso sería visual y, a la vez, 
 la ciencia no nos da imágenes que nos permitan divulgar. En estos casos, se hace imprescindible que, aquellos que intentamos divulgar, 
 nos esforcemos en explicar los conceptos desnudándolos de tecnicismos y en crear imágenes que nos permitan visualizarlos. Todo esto sin 
 faltar a la verdad ¡Casi nada!
-&nbsp 
-&nbsp 
-&nbsp 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
  ---
 **Glosario**
 
@@ -108,9 +110,10 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 
 ---
-&nbsp 
-&nbsp 
-&nbsp 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 ---
 **Para saber más**
 
