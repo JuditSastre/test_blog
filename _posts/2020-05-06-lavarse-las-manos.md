@@ -13,8 +13,6 @@ sidebar:
     text: "Cuenta fake en la que pruebo cosas"
   - title: "¿Aparecerá el tweeter?"
     text: "La duda me corroe."
-<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
     nav: sidebar-sample
 ---
 
