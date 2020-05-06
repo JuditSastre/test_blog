@@ -6,6 +6,16 @@ tags:
   - Jabón
   - Virus
 classes: wide
+sidebar:
+  - title: "Científicas Erbias Fake"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Cuenta fake en la que pruebo cosas"
+  - title: "¿Aparecerá el tweeter?"
+    text: "La duda me corroe."
+<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    nav: sidebar-sample
 ---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
