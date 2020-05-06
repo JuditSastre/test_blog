@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Científicas Ebrias- FAKE"
   avatar           : "/assets/images/cruzcampo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We're amazing people"
+  bio              : "Judit probando cosas"
   location         : "En los bares"
   email            :
   links:
@@ -117,6 +117,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+#Attempt to include Twiter feed on sidebar
+  sidebar:
+    - title: " "
+      text: "<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>"
   
       
 
@@ -277,7 +281,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      +_profile: true
       read_time: true
       comments: true
       share: true
