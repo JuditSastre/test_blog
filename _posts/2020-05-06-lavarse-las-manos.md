@@ -5,6 +5,7 @@ categories:
 tags:
   - Jabón
   - Virus
+classes: wide
 ---
 
 ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
