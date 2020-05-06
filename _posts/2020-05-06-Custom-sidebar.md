@@ -1,11 +1,4 @@
 ---
-title: "Layout: Sidebar Custom"
-author_profile: false
-sidebar:
-  - title: "Quiero poner el feed de Twiter"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: ""
-    nav: sidebar-sample
+title: "Prueba Twitter"
 ---
-Cancelar
+<a class="twitter-timeline" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
