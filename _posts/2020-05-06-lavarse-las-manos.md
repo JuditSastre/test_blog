@@ -77,7 +77,7 @@ faltar a la verdad ¡Casi nada!
 AQUÍ SE SUPONE QUE EMPIEZA UN RECUADRO, HE PULSADO DOS VECES TAB...no funciona
  
  
- ::: warning
+ ---
 **Glosario**
 
 
@@ -92,7 +92,8 @@ aminoácidos. En una célula, se encargan de casi todos los procesos que os pod�
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas. 
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
-:::
+
+---
 
 
 **Para saber más**
