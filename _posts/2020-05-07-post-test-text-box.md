@@ -67,6 +67,7 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 
 ```
 
+Este es una mierda.
 &nbsp;  
 &nbsp;
 
@@ -78,7 +79,13 @@ Creando una tabla
 | Pipe     | \|        |
 
 
-| *Glosario* |          |
+| **Glosario** |          |
 | **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros. |  |
 | etc. |    |
+
+También podría ser así:
+| **Glosario** |          |
+| **Nanopartícula** | Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros. |
+| **etc.** |  muchas etc's  |
+
 
