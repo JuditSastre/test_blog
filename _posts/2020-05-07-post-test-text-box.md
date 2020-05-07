@@ -89,6 +89,13 @@ También podría ser así:
 | **Nanopartícula** | Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros. |
 | **etc.** |  muchas etc's  |
 
-O muy a pelo:
+O muy a pelo, con html de la muerte:
 
-<p style="border: 3px; border-style:solid; border-color:#FF0000; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
+<p style="border: 3px; border-style:solid; border-color:#FF0000; padding: 1em;"><b> Glosario</b><br><b> Nanopartícula</b> Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.<br><b>Otras definiciones</b> Significa esto y lo otro. </p>
+
+Tiene esta pinta:
+
+```
+<p style="border: 3px; border-style:solid; border-color:#FF0000; padding: 1em;"><b> Glosario</b><br><b> Nanopartícula</b> Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.<br><b>Otras definiciones</b> Significa esto y lo otro. </p>
+
+```
