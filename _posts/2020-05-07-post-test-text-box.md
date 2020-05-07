@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Estos son los cuadros de texto que sé hacer:
-1. Pone el texto entre líneas
+Pone el texto entre líneas
 
  ---
 **Glosario**
@@ -27,7 +27,7 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 ---
 &nbsp;  
 &nbsp;  
-2. A esto le llaman blockquote
+A esto le llaman blockquote
 
 > **Glosario**
 > 
@@ -46,7 +46,9 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 
 &nbsp;  
 &nbsp; 
-3. To format code or text into its own distinct block, use triple backticks \`
+
+To format code or text into its own distinct block, use triple backticks \`
+
 ```
 **Glosario**
 
@@ -62,12 +64,13 @@ aminoácidos. En una célula, se encargan de casi todos los procesos que os pod�
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas. 
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
+
 ```
 
 &nbsp;  
 &nbsp;
 
-4. Creando una tabla
+Creando una tabla
 
 | Name     | Character |
 | ---      | ---       |
@@ -75,7 +78,7 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 | Pipe     | \|        |
 
 
-| *Glosario* | 
-| * **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros. | 
-| etc. | 
+| *Glosario* |          |
+| **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros. |  |
+| etc. |    |
 
