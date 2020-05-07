@@ -14,14 +14,14 @@ SO FAR:
 - [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
 - [x] Los videos funcionan bien
 - [x] He añadido unas líneas que separan el glosario de para saber más.
-- [ ] Aún estoy probando si puedo hacer un recuadro alrededor de glosario y saber más 
+- [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) 
 - [ ] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
 - [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [x] Separar bien las tres secciones.
 - [x] Texto ancho
 - [x] Poner nuestro twitter en la barra lateral. 
 - [ ] Tamaño de letra más pequeño?
-- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes)?
+- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes, esto debería ser fácil)?
 &nbsp;  
 &nbsp;  
 &nbsp;  
