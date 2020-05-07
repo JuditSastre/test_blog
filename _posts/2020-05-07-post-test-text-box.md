@@ -93,6 +93,3 @@ O muy a pelo:
 <div class="boxed">
   Este es el texto
 </div>
-.boxed {
-  border: 1px solid green ;
-}
