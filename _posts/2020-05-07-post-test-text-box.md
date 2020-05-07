@@ -90,6 +90,5 @@ También podría ser así:
 | **etc.** |  muchas etc's  |
 
 O muy a pelo:
-<div class="boxed">
-  Este es el texto
-</div>
+
+<p style="border: 3px; border-style:solid; border-color:#FF0000; padding: 1em;">First example with text surrounded by a red border.<br>This example also has multiple lines.</p>
