@@ -53,8 +53,7 @@ a concentraciones bajas, las moléculas de jabón se sitúan en la interfase agu
 a concentraciones más altas, las moléculas de jabón se ordenan en la solución acuosa formando *micelas*, es decir, se agrupan para formar
 esferas con las cabezas apuntando hacia el exterior y las colas protegidas del agua en el interior.
 
-![Figura 1](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura1-580x300.png){: .align-center}
-
+![Figura 1](/assets/images/manos/Figura1-580x300.png)
 A su vez, los lípidos que forman la envoltura vírica también son moléculas anfifílicas que, en este caso, forman *bicapas lipídicas*
 – micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua-.
 
