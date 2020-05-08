@@ -1,7 +1,7 @@
 ---
 title: "Prueba formato home page CCE"
 author_profile: false
-layout:splash
+layout: splash
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;“La science, mon garçon, est faite d'erreurs, mais d'erreurs qu'il est bon de commettre, car elles mènent peu à peu à la vérité.”
 
