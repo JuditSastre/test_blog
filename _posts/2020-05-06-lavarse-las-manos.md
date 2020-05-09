@@ -14,8 +14,8 @@ SO FAR:
 - [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
 - [x] Los videos funcionan bien
 - [x] He añadido unas líneas que separan el glosario de para saber más.
-- [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) 
-- [x] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
+- [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) y [aquí](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
+- [x] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/). Se hace así `-	![my image]({{ "/assets/images/my-image.png" | relative_url }})`
 - [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [x] Separar bien las tres secciones.
 - [x] Texto ancho
@@ -91,15 +91,14 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 **Glosario**  
-&nbsp;  
-&nbsp;  
+&nbsp;   
 **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.  
-&nbsp;
+&nbsp;  
 **Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
 (ácido desoxirribonucleico) o el ARN (ácido ribonucleico).   
 &nbsp;  
@@ -115,11 +114,12 @@ las que hemos hablado hoy, las interacciones hidrofóbicas.
 **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
 
-
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ---
 **Para saber más**
 
