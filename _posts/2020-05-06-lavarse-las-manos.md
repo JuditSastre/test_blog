@@ -71,7 +71,7 @@ Sin embargo, Nico aún no sabe nada de bicapas, ni interacciones… ni siquiera 
 En su caso, se hace necesario usar una explicación mucho más visual que, aún de una manera sencilla, transmita la idea principal: 
 el jabón rompe los virus. 
 
-{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %}    
+{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %}<video width="580" height="300" controls> 
 
 En este caso, al mezclar agua y aceite estos se separan ya que no son *miscibles*. Cuando añadimos agua con jabón, se forman pequeñas 
 esferas de aceite en el agua por la acción de las moléculas anfifílicas de jabón. En este caso, las micelas que forman las moléculas 
@@ -93,33 +93,25 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
 **Glosario**  
 &nbsp;   
 **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
-250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.  
-&nbsp;  
+250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.   
 **Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
 (ácido desoxirribonucleico) o el ARN (ácido ribonucleico).   
-&nbsp;  
 **Proteína**: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
 son mucho más que eso (preguntadle a un bioquímico, si no). Las proteínas son moléculas, muy grandes, formadas por secuencias de 
-aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.  
-&nbsp;    
+aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.   
 **Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico.  
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
-las que hemos hablado hoy, las interacciones hidrofóbicas.   
-&nbsp;  
-&nbsp;  
+las que hemos hablado hoy, las interacciones hidrofóbicas.    
 **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
 
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;    
+
 ---
 **Para saber más**
 
