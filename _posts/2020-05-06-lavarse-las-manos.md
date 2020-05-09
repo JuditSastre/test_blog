@@ -9,28 +9,11 @@ classes: wide
 author_profile: true
 ---
 
-ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
-SO FAR:
-- [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
-- [x] Los videos funcionan bien
-- [x] He añadido unas líneas que separan el glosario de para saber más.
-- [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) y [aquí](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
-- [x] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/). Se hace así `-	![my image]({{ "/assets/images/my-image.png" | relative_url }})`
-- [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-- [x] Separar bien las tres secciones.
-- [x] Texto ancho
-- [x] Poner nuestro twitter en la barra lateral. 
-- [ ] Tamaño de letra más pequeño?
-- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes, esto debería ser fácil)?
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
 Para intentar explicárselo, sus padres usaron un experimento que se ha popularizado en las redes sociales y en la televisión.
 
-<iframe src="https://drive.google.com/file/d/1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview" width="640" height="480"></iframe>
+{% include video id="1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA" provider="google-drive" %}
 
 En este experimento, podemos observar cómo las partículas que flotan en el agua salen disparadas hacia los bordes del plato
 al añadir el agua con jabón. Esto es debido a que las moléculas de jabón se ordenan en la superficie del agua y desplazan las
@@ -71,7 +54,7 @@ Sin embargo, Nico aún no sabe nada de bicapas, ni interacciones… ni siquiera 
 En su caso, se hace necesario usar una explicación mucho más visual que, aún de una manera sencilla, transmita la idea principal: 
 el jabón rompe los virus. 
 
-<video width="580" height="300" controls>{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %} </video>
+{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %}
 
 En este caso, al mezclar agua y aceite estos se separan ya que no son *miscibles*. Cuando añadimos agua con jabón, se forman pequeñas 
 esferas de aceite en el agua por la acción de las moléculas anfifílicas de jabón. En este caso, las micelas que forman las moléculas 
@@ -90,9 +73,7 @@ nos esforcemos en explicar los conceptos desnudándolos de tecnicismos y en crea
 faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;   
 
 **Glosario**  
 &nbsp;   
@@ -108,8 +89,7 @@ Algunas de las más conocidas son los puentes de hidrógeno, las interacciones e
 las que hemos hablado hoy, las interacciones hidrofóbicas.    
 **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
-
-&nbsp;  
+ 
 &nbsp;    
 
 ---
@@ -124,3 +104,24 @@ nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa e
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/18 A soap is a soap is a soap! I am still flabbergasted by your response to my Twitter thread about the <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Coronavirus, soap and supramolecular chemistry! I have been quite busy today but I in this thread I will try to provide answers to some of your questions: <a href="https://t.co/re56GDmvIG">pic.twitter.com/re56GDmvIG</a></p>&mdash; Palli Thordarson (@PalliThordarson) <a href="https://twitter.com/PalliThordarson/status/1236969890398912512?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+
+&nbsp;    
+&nbsp;    
+&nbsp;    
+&nbsp;    
+&nbsp;    
+
+## ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
+
+SO FAR:
+- [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
+- [x] Los videos funcionan bien
+- [x] He añadido unas líneas que separan el glosario de para saber más.
+- [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) y [aquí](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
+- [x] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/). Se hace así `-	![my image]({{ "/assets/images/my-image.png" | relative_url }})`
+- [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+- [x] Separar bien las tres secciones.
+- [x] Texto ancho
+- [x] Poner nuestro twitter en la barra lateral. 
+- [ ] Tamaño de letra más pequeño?
+- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes, esto debería ser fácil)? No se puede. Si defino el tamaño ya no se ajusta a la página cuando es más pequeña-> se verá una mierda en el móvil. 
