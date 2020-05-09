@@ -3,8 +3,8 @@ title: "Prueba formato home page CCE"
 author_profile: false
 layout: splash
 ---
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 ## En este post, pruebo distintas formas de poner la cita para la página principal. 
 
 &nbsp; 
@@ -43,7 +43,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 &nbsp; 
 **Cambiando color y tamaño quedaría:**
 
-<span style=""color:#6666ff; font-size:1em;">La science, mon garçon, est faite d'erreurs, mais d'erreurs qu'il est bon de commettre, car elles mènent peu à peu à la vérité.”<br>
+<span style="color:#6666ff; font-size:1em;">La science, mon garçon, est faite d'erreurs, mais d'erreurs qu'il est bon de commettre, car elles mènent peu à peu à la vérité.”<br>
 *Viaje al centro de la tierra*, Jules Vernes</span>
 
   
