@@ -95,18 +95,24 @@ faltar a la verdad ¡Casi nada!
 
 
 **Glosario**  
-&nbsp;
-&nbsp;&nbsp;**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
+&nbsp;  
+&nbsp;  
+**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.  
-&nbsp;&nbsp;**Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
+&nbsp;
+**Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
 (ácido desoxirribonucleico) o el ARN (ácido ribonucleico).   
-&nbsp;&nbsp;**Proteína**: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
+&nbsp;  
+**Proteína**: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
 son mucho más que eso (preguntadle a un bioquímico, si no). Las proteínas son moléculas, muy grandes, formadas por secuencias de 
 aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.  
-&nbsp;&nbsp;**Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico.  
+&nbsp;    
+**Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico.  
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas.   
-&nbsp;&nbsp;**Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
+&nbsp;  
+&nbsp;  
+**Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
 
 
