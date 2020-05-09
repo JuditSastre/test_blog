@@ -30,7 +30,7 @@ Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insist
 
 Para intentar explicárselo, sus padres usaron un experimento que se ha popularizado en las redes sociales y en la televisión.
 
-{% include video id="1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA" provider="google-drive" %}
+<iframe src="https://drive.google.com/file/d/1YIE3BeVbGCMjGtUIpuINplDcUsZQlugA/preview" width="640" height="480"></iframe>
 
 En este experimento, podemos observar cómo las partículas que flotan en el agua salen disparadas hacia los bordes del plato
 al añadir el agua con jabón. Esto es debido a que las moléculas de jabón se ordenan en la superficie del agua y desplazan las
