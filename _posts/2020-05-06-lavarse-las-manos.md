@@ -53,14 +53,12 @@ a concentraciones bajas, las moléculas de jabón se sitúan en la interfase agu
 a concentraciones más altas, las moléculas de jabón se ordenan en la solución acuosa formando *micelas*, es decir, se agrupan para formar
 esferas con las cabezas apuntando hacia el exterior y las colas protegidas del agua en el interior.
 
-![Figura 1]({{ "/assets/images/manos/Figura1-580x300.png" | relative_url }})
-{: .align-center}
+![Figura 1]({{ "/assets/images/manos/Figura1-580x300.png" | relative_url }}){: .align-center}
 
 A su vez, los lípidos que forman la envoltura vírica también son moléculas anfifílicas que, en este caso, forman *bicapas lipídicas*
 – micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua-.
 
-![Figura 2]({{"/assets/images/manos/Figura2-580x300.png" | relative_url }})
-{: .align-center}
+![Figura 2]({{"/assets/images/manos/Figura2-580x300.png" | relative_url }}){: .align-center}
 
 Así pues, cuando nos lavamos las manos con agua y jabón, rodeamos los virus con moléculas de jabón. Estas moléculas, en su huida del
 agua, interaccionan tanto con otras moléculas de jabón como con los lípidos que conforman la envoltura vírica porque las moléculas de
@@ -83,8 +81,7 @@ Los iniciados me diréis: ¡el experimento del aceite tampoco es exacto! Tenéis
 podemos ver como la gota de aceite (el virus) se rompe al añadir jabón formando esferas más pequeñas. Ahora sí, Nico comprende que los 
 virus se rompen al lavarnos las manos.
 
-![Figura 3]({{ "assets/images/manos/Figura3-580x300.png" | relative_url }})
-{: .align-center}
+![Figura 3]({{ "assets/images/manos/Figura3-580x300.png" | relative_url }}){: .align-center}
 
 Para hablar de cómo el jabón interactúa con un virus podríamos ir al laboratorio, construir una bicapa para visualizarla con un 
 microscopio y ver qué pasa si añadimos jabón: eso sería visual y, a la vez, veraz. Por desgracia, no siempre es así y normalmente 
@@ -97,18 +94,18 @@ faltar a la verdad ¡Casi nada!
 
 
 
-**Glosario**
+**Glosario**  
 &nbsp;
 &nbsp;&nbsp;**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
-250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.
+250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.  
 &nbsp;&nbsp;**Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
-(ácido desoxirribonucleico) o el ARN (ácido ribonucleico). 
+(ácido desoxirribonucleico) o el ARN (ácido ribonucleico).   
 &nbsp;&nbsp;**Proteína**: esta seguro que no coge de nuevas a nadie. Solemos pensar en ellas como algo que encontramos en la carne, pero 
 son mucho más que eso (preguntadle a un bioquímico, si no). Las proteínas son moléculas, muy grandes, formadas por secuencias de 
-aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.
-&nbsp;&nbsp;**Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico. 
+aminoácidos. En una célula, se encargan de casi todos los procesos que os podáis imaginar.  
+&nbsp;&nbsp;**Interacción débil**: llamamos interacción débil a todas aquellas interacciones entre moléculas que no impliquen enlace químico.  
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
-las que hemos hablado hoy, las interacciones hidrofóbicas. 
+las que hemos hablado hoy, las interacciones hidrofóbicas.   
 &nbsp;&nbsp;**Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
 
