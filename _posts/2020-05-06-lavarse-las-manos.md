@@ -71,7 +71,7 @@ Sin embargo, Nico aún no sabe nada de bicapas, ni interacciones… ni siquiera 
 En su caso, se hace necesario usar una explicación mucho más visual que, aún de una manera sencilla, transmita la idea principal: 
 el jabón rompe los virus. 
 
-{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %}<video width="580" height="300" controls> 
+<video width="580" height="300" controls>{% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %} 
 
 En este caso, al mezclar agua y aceite estos se separan ya que no son *miscibles*. Cuando añadimos agua con jabón, se forman pequeñas 
 esferas de aceite en el agua por la acción de las moléculas anfifílicas de jabón. En este caso, las micelas que forman las moléculas 
