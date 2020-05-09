@@ -14,7 +14,20 @@ layout: splash
 
  <div style="text-align: right;color:#668c99; font-size:0.9em;">"La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."<br>
  <i>Viaje al centro de la tierra</i>, Jules Vernes</div>
+ 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;&nbsp;&nbsp;¡Bienvenido al club de las científicas Erbias! Este club está formado un grupo de amigos que provenimos de distintas ramas científicas, con el objetivo común de transmitir nuestra pasión por la ciencia a todo tipo de público. Como no todo en ciencia reluce, además de compartir temas de interés científico, os contaremos cómo es la vida de un investigador y los retos y dificultades que conlleva. 
 
+&nbsp;
+&nbsp;&nbsp;Y como la ciencia es colaborativa, estaremos siempre encantados de oir vuestras opiniones. 
+¡No dudéis en sugerirnos temas que sean de vuestro interés! Y si además tú también eres científico y quieres unirte a nosotros o hacernos sugerencias sobre cómo mejorar alguna de nuestras entradas, toda idea será más que bienvenida. ¡Nosotros también queremos aprender!
+  
+&nbsp;  
+&nbsp;  
+&nbsp; 
 ### Otras cosas que sé hacer:
 
 
