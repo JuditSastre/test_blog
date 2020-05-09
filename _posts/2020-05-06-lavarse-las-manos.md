@@ -5,8 +5,8 @@ categories:
 tags:
   - Jabón
   - Virus
-# classes: wide
-author_profile: true
+classes: wide
+# author_profile: true
 ---
 &nbsp;  
  
