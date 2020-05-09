@@ -15,7 +15,7 @@ SO FAR:
 - [x] Los videos funcionan bien
 - [x] He añadido unas líneas que separan el glosario de para saber más.
 - [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) 
-- [ ] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
+- [x] Por alguna razón que desconozco, no puedo poner las imágenes. Cuando sepa, probaré a alinearlas [según Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
 - [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [x] Separar bien las tres secciones.
 - [x] Texto ancho
@@ -53,11 +53,11 @@ a concentraciones bajas, las moléculas de jabón se sitúan en la interfase agu
 a concentraciones más altas, las moléculas de jabón se ordenan en la solución acuosa formando *micelas*, es decir, se agrupan para formar
 esferas con las cabezas apuntando hacia el exterior y las colas protegidas del agua en el interior.
 
-![Figura 1](/assets/images/manos/Figura1-580x300.png)
+![Figura 1]({{ "/assets/images/manos/Figura1-580x300.png" | relative_url }}) {: .align-center}
 A su vez, los lípidos que forman la envoltura vírica también son moléculas anfifílicas que, en este caso, forman *bicapas lipídicas*
 – micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua-.
 
-![Figura 2](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura2-580x300.png){: .align-center}
+![Figura 2]({{"/assets/images/manos/Figura2-580x300.png" | relative_url }}) {: .align-center}
 
 Así pues, cuando nos lavamos las manos con agua y jabón, rodeamos los virus con moléculas de jabón. Estas moléculas, en su huida del
 agua, interaccionan tanto con otras moléculas de jabón como con los lípidos que conforman la envoltura vírica porque las moléculas de
@@ -80,7 +80,7 @@ Los iniciados me diréis: ¡el experimento del aceite tampoco es exacto! Tenéis
 podemos ver como la gota de aceite (el virus) se rompe al añadir jabón formando esferas más pequeñas. Ahora sí, Nico comprende que los 
 virus se rompen al lavarnos las manos.
 
-![Figura 3](https://github.com/JuditSastre/test_blog/blob/master/assets/images/manos/Figura3-580x300.png){: .align-center}
+![Figura 3]({{ "assets/images/manos/Figura3-580x300.png" | relative_url }}){: .align-center}
 
 Para hablar de cómo el jabón interactúa con un virus podríamos ir al laboratorio, construir una bicapa para visualizarla con un 
 microscopio y ver qué pasa si añadimos jabón: eso sería visual y, a la vez, veraz. Por desgracia, no siempre es así y normalmente 
@@ -92,7 +92,7 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 
 
- ---
+
 **Glosario**
 
 
@@ -107,8 +107,9 @@ aminoácidos. En una célula, se encargan de casi todos los procesos que os pod�
 Algunas de las más conocidas son los puentes de hidrógeno, las interacciones electroestáticas, las fuerzas de Van der Waals y, de 
 las que hemos hablado hoy, las interacciones hidrofóbicas. 
 * **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
+{: .notice--warning}
 
----
+
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -123,5 +124,6 @@ nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa e
 * Inspirado en este hilo, un artículo del New York Times. En castellano. [¿Por qué el jabón funciona?](https://www.nytimes.com/es/2020/03/16/espanol/ciencia-y-tecnologia/jabon-mata-coronavirus-lavado-manos.html)
 * Del mismo autor del primer hilo, otro respondiendo a preguntas que surgieron del primero. En inglés.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/18 A soap is a soap is a soap! I am still flabbergasted by your response to my Twitter thread about the <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Coronavirus, soap and supramolecular chemistry! I have been quite busy today but I in this thread I will try to provide answers to some of your questions: <a href="https://t.co/re56GDmvIG">pic.twitter.com/re56GDmvIG</a></p>&mdash; Palli Thordarson (@PalliThordarson) <a href="https://twitter.com/PalliThordarson/status/1236969890398912512?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{: .notice--primary}
 
 ---
