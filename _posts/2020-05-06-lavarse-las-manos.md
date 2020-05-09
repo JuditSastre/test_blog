@@ -5,13 +5,11 @@ categories:
 tags:
   - Jabón
   - Virus
-classes: wide
+# classes: wide
 author_profile: true
 ---
 &nbsp;  
-&nbsp;  
-&nbsp;   
-
+ 
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
 Para intentar explicárselo, sus padres usaron un experimento que se ha popularizado en las redes sociales y en la televisión.
