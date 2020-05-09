@@ -12,10 +12,14 @@ layout: splash
 ### __Propuestas__
 
 1.  
-> <span style="color:#668c99; font-size:0.8em;"> "La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."
-> <div style="text-align: right"> <i>Viaje al centro de la tierra</i>, Jules Vernes</div></span>  
+
+
+> <span style="color:#668c99; font-size:0.8em;"> "La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."</span>
+> <div style="text-align: right;color:#668c99; font-size:0.8em;"> <i>Viaje al centro de la tierra</i>, Jules Vernes</div>  
 
 2.  
+
+
 <span style="color:#668c99; font-size:0.8em;"> "La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."
 <div style="text-align: right"> <i>Viaje al centro de la tierra</i>, Jules Vernes</div></span>
 
