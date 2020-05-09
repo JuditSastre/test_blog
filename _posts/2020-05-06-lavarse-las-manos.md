@@ -8,6 +8,9 @@ tags:
 classes: wide
 author_profile: true
 ---
+&nbsp;  
+&nbsp;  
+&nbsp;   
 
 Nico tiene 4 años y, como muchos, estos días se pregunta por qué tanta insistencia con lavarnos las manos con agua y jabón.
 
@@ -89,8 +92,7 @@ Algunas de las más conocidas son los puentes de hidrógeno, las interacciones e
 las que hemos hablado hoy, las interacciones hidrofóbicas.    
 **Miscible**: se dice de un líquido que es capaz de mezclarse con otro en cualquier proporción. 
 {: .notice--warning}
- 
-&nbsp;    
+     
 
 ---
 **Para saber más**
