@@ -7,7 +7,10 @@ author_profile: true
 Voy a probar a ver si me salen las columnas
 La info sale de [aquí](https://www.educative.io/edpresso/how-to-create-columns-in-html)
 
-Blablablabla
+Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de laboratorio y pizarras llenas de fórmulas.
+
+¿Quiénes somos?
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +24,6 @@ Blablablabla
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -34,16 +36,15 @@ Blablablabla
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:#FFFFFF;">
+    <h2> Inés Martínez Martín (@imartinesmartin)</h2>
+    <p>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos. #BeerLover</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:#FFFFFF;">
+    <h2>Jaime Sáez-Mollejo</h2>
+    <p>Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones. #HikingLover</p>
   </div>
 </div>
 
