@@ -122,5 +122,5 @@ SO FAR:
 - [x] Separar bien las tres secciones.
 - [x] Texto ancho
 - [x] Poner nuestro twitter en la barra lateral. 
-- [ ] Tamaño de letra más pequeño?
-- [ ] Cambiar tamaño videos (al hacer el texto ancho me parecen un poco grandes, esto debería ser fácil)? No se puede. Si defino el tamaño ya no se ajusta a la página cuando es más pequeña-> se verá una mierda en el móvil. 
+- [x] Tamaño de letra más pequeño. Lo he cambiado para todo el blog, porque me parecía muy grande todo. 
+- [ ] Cambiar tamaño videos? No se puede/No sé. Si defino el tamaño ya no se ajusta a la página cuando es más pequeña-> se ve una mierda en el móvil. 
