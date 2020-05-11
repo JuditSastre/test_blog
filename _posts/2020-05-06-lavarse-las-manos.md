@@ -76,9 +76,9 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;   
 
-<span style="font-size:1.5em">**Glosario**  
+<span style="font-size:1.5em">**Glosario**</span>
 &nbsp;   
-**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
+<span style="font-size:1.25em">**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.   
 **Material genético**: nos referimos a las moléculas que guardan la información genética. Estas moléculas pueden ser el ADN 
 (ácido desoxirribonucleico) o el ARN (ácido ribonucleico).   
@@ -113,7 +113,7 @@ nos explica cómo es capaz de adherirse el virus a nuestra piel y cómo actúa e
 ## ESTO ES UNA PRUEBA PARA VER CÓMO QUEDA EL POST.
 
 SO FAR:
-- [x] He puesto un tweet (aunque sale alineado con el texto, no con el bullet point)
+- [x] He puesto un tweet y lo he centrado
 - [x] Los videos funcionan bien
 - [x] He añadido unas líneas que separan el glosario de para saber más.
 - [x] Otras formas de señalar las secciones de "Glosario" y "Saber más. Están [aquí](https://juditsastre.github.io/test_blog/post-test-text-box/) y [aquí](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
@@ -121,6 +121,6 @@ SO FAR:
 - [x] Links bien. [Más info de cómo poner links en Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 - [x] Separar bien las tres secciones.
 - [x] Texto ancho
-- [x] Poner nuestro twitter en la barra lateral. 
+- [x] Poner nuestro twitter en la barra lateral (ahora está desactivado, por eso queda ese espacio vacío. Si decidimos quitar la barra en los posts habría que ver como quitar ese vacío y centrar todo el texto) 
 - [x] Tamaño de letra más pequeño. Lo he cambiado para todo el blog, porque me parecía muy grande todo. 
 - [ ] Cambiar tamaño videos? No se puede/No sé. Si defino el tamaño ya no se ajusta a la página cuando es más pequeña-> se ve una mierda en el móvil. 
