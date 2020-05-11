@@ -1,5 +1,5 @@
 ---
-Title: Prueba formato sobre nosotros
+Title: Prueba formato sobre nosotros WIDE
 author_profile: true
 classes: wide
 ---
