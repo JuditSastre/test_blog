@@ -10,6 +10,8 @@ La info sale de [aquí](https://www.w3schools.com/howto/howto_css_two_columns.as
     * Arreglar nuestras fotos para que sean iguales.
     * Que la imagen esté en una fila diferente del texto. Aunque claro, si tu imagen es más corta que la de el de al lado quedará un espacio blanco entre imagen y texto. A mí me parece feo...
 * No me he puesto, pero se puede hacer que esto sea "responsive". Es decir, que si la ventana es pequeña dejan de ser dos columnas para ser una y que se vea mejor. Puedo intentarlo. 
+* Me falta poner el link del Twitter de Inés, alguien más quiere poner el suyo? (Me jode el alineado, maja). 
+* Se puede cambiar el tamaño del nombre, el color del fondo...
 
 ---
 Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de laboratorio y pizarras llenas de fórmulas.
@@ -69,7 +71,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Dani</h3>
-    <p><img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/25/el-acator-dani-rovira.r_d.2572-581.jpeg" width="400" height="400"> Dani tiene sus sueños, miedos e incertidumbres, como los demás.<br>También tengo apellidos, aunque Judit aún no los sabe. <b>#SoyNuevo</b></p>
+    <p><img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/25/el-acator-dani-rovira.r_d.2572-581.jpeg" width="400" height="400"> Dani tiene sus sueños, miedos e incertidumbres, como los demás.<br>Incluso tiene apellidos, aunque Judit aún no los sabe. <b>#SoyNuevo</b></p>
   </div>
 </div>
 
