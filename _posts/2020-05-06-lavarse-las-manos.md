@@ -76,7 +76,7 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;   
 
-<span style="font-size:1em">**Glosario**  
+<span style="font-size:4em">**Glosario**  
 &nbsp;   
 **Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.   
