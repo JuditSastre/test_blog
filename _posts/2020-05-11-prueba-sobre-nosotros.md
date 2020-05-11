@@ -35,8 +35,6 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 </style>
 </head>
 <body>
-
-
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3> Inés Martínez Martín (@imartinesmartin)</h3>
@@ -45,6 +43,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Jaime Sáez-Mollejo</h3>
     <p><img src="https://pbs.twimg.com/profile_images/1179599250511941632/BS42kpBO_400x400.jpg" width="400" height="400">Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones. <b>#HikingLover</b></p>
+</div>
 <div class="row">
     <div class="column" style="background-color:#FFFFFF;">
     <h3>Laura Pérez-Chirinos</h3>
