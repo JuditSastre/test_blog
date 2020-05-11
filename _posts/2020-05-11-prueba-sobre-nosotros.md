@@ -6,7 +6,12 @@ author_profile: true
 
 Voy a probar a ver si me salen las columnas.
 La info sale de [aquí](https://www.w3schools.com/howto/howto_css_two_columns.asp)
+* En principio he definido el tamaño de imagen, pero pasa de mí. En el eje x se ajustan a la columna, así que bien, pero en el y...cada una es de su padre y de su madre. Se me ocurren dos opciones:
+    * Arreglar nuestras fotos para que sean iguales.
+    * Que la imagen esté en una fila diferente del texto. Aunque claro, si tu imagen es más corta que la de el de al lado quedará un espacio blanco entre imagen y texto. A mí me parece feo...
+* No me he puesto, pero se puede hacer que esto sea "responsive". Es decir, que si la ventana es pequeña dejan de ser dos columnas para ser una y que se vea mejor. Puedo intentarlo. 
 
+---
 Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de laboratorio y pizarras llenas de fórmulas.
 
 ¿Quiénes somos?
