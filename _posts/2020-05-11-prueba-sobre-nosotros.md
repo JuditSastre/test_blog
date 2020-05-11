@@ -40,11 +40,11 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h2> Inés Martínez Martín (@imartinesmartin)</h2>
-    <p>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos. #BeerLover</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Dobles_grados_de_las_facultades_de_Derecho_y_Empresariales_%2834543100771%29_%28cropped%29_4.jpg" width="400" height="400">Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos. <b>#BeerLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h2>Jaime Sáez-Mollejo</h2>
-    <p>Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones. #HikingLover</p>
+    <p><img src="https://pbs.twimg.com/profile_images/1179599250511941632/BS42kpBO_400x400.jpg" width="400" height="400">Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones. <b>#HikingLover</b></p>
   </div>
 </div>
 
