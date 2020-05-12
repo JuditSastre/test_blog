@@ -22,6 +22,13 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+/* This is used to define the class that enables image centering */
+   .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 <style>
 * {
   box-sizing: border-box;
@@ -48,7 +55,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3> Inés Martínez Martín (@imartinesmartin)</h3>
-    <p><img  style="margin: auto" src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/ines1.jpg?raw=true" width="50%" height="50%"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
+    <p><img  style="margin: auto" src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/ines1.jpg?raw=true" class="center"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Jaime Sáez-Mollejo</h3>
