@@ -22,7 +22,6 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-/* This is used to define the class that enables image centering */
 <style>
 .center {
   display: block;
@@ -62,27 +61,27 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Jaime Sáez-Mollejo</h3>
-    <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/jaime1.jpg?raw=true" width="400" height="400"><br>Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones.<br><b>#HikingLover</b></p>
+    <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/jaime1.jpg?raw=true" class="center"><br>Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones.<br><b>#HikingLover</b></p>
   </div>
 </div>
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Laura Pérez-Chirinos</h3>
-    <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/laura1.jpg?raw=true" width="400" height="400"><br>¿La mejor manera de evadir mi mente? El piano y la pintura. Amante de los viernes por la noche y de retos nuevos.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#NoTengoHashtag</b></p>
+    <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/laura1.jpg?raw=true" class="center"><br>¿La mejor manera de evadir mi mente? El piano y la pintura. Amante de los viernes por la noche y de retos nuevos.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#NoTengoHashtag</b></p>
   </div>
    <div class="column" style="background-color:#FFFFFF;">
       <h3>Judit Sastre Pozo</h3>
-      <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/judit1.jpg?raw=true" width="400" height="400"><br>Historias trepidantes, ciencia a mogollón y cacharros alucinantes. De pequeña quería ser escritora de ciencia ficción… al final estudié Química. Sin embargo, no renuncié a los cacharros chulos, por eso hice un máster en Biofísica. Ni a las buenas historias… y aquí estamos.<br><i>¿Qué es la vida?</i> (Erwin Schrödinger) versus <i>La última pregunta</i> (Isaac Asimov)<br><b>#SciFiVsSciFacts</b></p>
+      <p><img src="https://github.com/JuditSastre/test_blog/blob/master/assets/images/judit1.jpg?raw=true" class="center"><br>Historias trepidantes, ciencia a mogollón y cacharros alucinantes. De pequeña quería ser escritora de ciencia ficción… al final estudié Química. Sin embargo, no renuncié a los cacharros chulos, por eso hice un máster en Biofísica. Ni a las buenas historias… y aquí estamos.<br><i>¿Qué es la vida?</i> (Erwin Schrödinger) versus <i>La última pregunta</i> (Isaac Asimov)<br><b>#SciFiVsSciFacts</b></p>
    </div>
 </div>
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Adrián Candelas Baonza</h3>
-    <p><img src="https://vignette.wikia.nocookie.net/liverpoolfc/images/2/24/Adrian2019.jpeg/revision/latest?cb=20190807042615" width="400" height="400"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar de toda la vida. Biólogo por la Univ. Autónoma de Madrid, máster en investigación multidisciplinar por la Univ. Pompeu Fabra y actualmente realizando un doctorado (PhD) en Terapia Celular por la Universidad de la Sorbonna (CytomorphoLab). Soy el raro del grupo, el que prefiere un vino a una cerveza.<b><br>#TeamWine</b></p>
+    <p><img src="https://vignette.wikia.nocookie.net/liverpoolfc/images/2/24/Adrian2019.jpeg/revision/latest?cb=20190807042615" class="center"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar de toda la vida. Biólogo por la Univ. Autónoma de Madrid, máster en investigación multidisciplinar por la Univ. Pompeu Fabra y actualmente realizando un doctorado (PhD) en Terapia Celular por la Universidad de la Sorbonna (CytomorphoLab). Soy el raro del grupo, el que prefiere un vino a una cerveza.<b><br>#TeamWine</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Dani</h3>
-    <p><img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/25/el-acator-dani-rovira.r_d.2572-581.jpeg" width="400" height="400"><br>Dani tiene sus sueños, miedos e incertidumbres, como los demás.<br>Incluso tiene apellidos, aunque Judit aún no los sabe. <b>#SoyNuevo</b></p>
+    <p><img src="https://imagenes.20minutos.es/files/image_656_370/files/fp/uploads/imagenes/2020/03/25/el-acator-dani-rovira.r_d.2572-581.jpeg" class="center"><br>Dani tiene sus sueños, miedos e incertidumbres, como los demás.<br>Incluso tiene apellidos, aunque Judit aún no los sabe. <b>#SoyNuevo</b></p>
   </div>
 </div>
 
