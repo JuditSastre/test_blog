@@ -27,7 +27,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
 }
 </style>
 
@@ -40,7 +40,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 .column {
   float: left;
   width: 50%;
-  padding: 10px;
+  padding: 15px;
 }
 
 /* Clear floats after the columns */
