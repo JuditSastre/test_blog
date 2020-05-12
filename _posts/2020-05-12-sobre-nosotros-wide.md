@@ -29,6 +29,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
   margin-right: auto;
   width: 50%;
 }
+
 <style>
 * {
   box-sizing: border-box;
