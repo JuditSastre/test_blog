@@ -48,7 +48,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3> Inés Martínez Martín (@imartinesmartin)</h3>
-    <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Dobles_grados_de_las_facultades_de_Derecho_y_Empresariales_%2834543100771%29_%28cropped%29_4.jpg" width="400" height="400"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
+    <p><img src="https://https://github.com/JuditSastre/test_blog/blob/master/assets/images/ines1.jpg"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Jaime Sáez-Mollejo</h3>
