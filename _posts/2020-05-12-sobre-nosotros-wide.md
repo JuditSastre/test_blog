@@ -23,12 +23,14 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 /* This is used to define the class that enables image centering */
+<style>
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+</style>
 
 <style>
 * {
